@@ -1,0 +1,8 @@
+disableMCXR = false
+pauseMCXR = false
+walkDirection = "LeftHand"
+swimDirection = "RightHand"
+flyDirection = "RightHand"
+handPitchAdjust = 30.0
+SSAA = 1.0
+

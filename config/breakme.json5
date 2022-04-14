@@ -1,0 +1,6 @@
+{
+	// What should cause a crash
+	"event": "Death",
+	// The method used to perform the crash
+	"method": "Safe_Universal_Exception"
+}

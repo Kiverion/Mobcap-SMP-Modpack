@@ -1,0 +1,14 @@
+[
+  {
+    "name":"Sit Down",
+    "command":"/sit"
+  },
+  {
+    "name":"Lay Down",
+    "command":"/lay"
+  },
+  {
+    "name":"Crawl",
+    "command":"/crawl"
+  }
+]
